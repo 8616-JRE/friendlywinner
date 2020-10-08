@@ -1,0 +1,2 @@
+# friendlywinner
+A sample repo
